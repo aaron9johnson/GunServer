@@ -1,0 +1,41 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "com.aaron.gunserver",
+      "nativeLanguage": "en"
+    },
+    "jhipsterVersion": "6.10.1",
+    "applicationType": "monolith",
+    "baseName": "gunServer",
+    "packageName": "com.aaron.gunserver",
+    "packageFolder": "com/aaron/gunserver",
+    "serverPort": "8080",
+    "authenticationType": "jwt",
+    "cacheProvider": "ehcache",
+    "enableHibernateCache": true,
+    "websocket": "spring-websocket",
+    "databaseType": "sql",
+    "devDatabaseType": "postgresql",
+    "prodDatabaseType": "postgresql",
+    "searchEngine": false,
+    "messageBroker": false,
+    "serviceDiscoveryType": "eureka",
+    "buildTool": "maven",
+    "enableSwaggerCodegen": false,
+    "jwtSecretKey": "MTViMzZiMjA3OTg1OTc4M2U1ZjQ0MDgzOTlmMjJkMjIwOWY5YjVkNzhlYjA5ZGI0OGNiMDJkNGFhNjE2OTY2MzA0NDcyMjdmZmMxMmY1ZmM2MWQ1ZTIzY2IyYzhhY2U5Mjg1OTVhYjk5ZTZjYjY1MTYyY2YxMWIzMzhkMmZmOGE=",
+    "embeddableLaunchScript": false,
+    "useSass": true,
+    "clientPackageManager": "npm",
+    "skipClient": true,
+    "creationTimestamp": 1598206781625,
+    "testFrameworks": [],
+    "jhiPrefix": "jhi",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": [],
+    "enableTranslation": true,
+    "nativeLanguage": "en",
+    "languages": ["en", "fr", "es"],
+    "blueprints": []
+  }
+}
